@@ -20,7 +20,7 @@
 [linkedin]: https://www.linkedin.com/in/isaac-ngahu-72bb02317
 
 <h2>📫 How to reach me:</h2>
-[email]: <a href="isaacngahu37@gmail.com">isaacngahu37@gmail.com</a>
+[email]: isaacngahu37@gmail.com
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
